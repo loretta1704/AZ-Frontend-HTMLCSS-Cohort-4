@@ -4,11 +4,14 @@
 .Dishes{
     border: 1px solid;
     padding: 10px;
+    color: cadetblue;
+    text-decoration: none;
     }
     .list{
     color:darkblue;
-    font-weight: 500;
-    background-color:bisque; 
+    font-weight:bold;
+    background-color:bisque;
+    padding: 5px; 
  }
  .list:hover{
      background-color:blueviolet;
