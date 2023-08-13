@@ -1,0 +1,16 @@
+.Food{
+    background-color: crimson;
+}
+.Dishes{
+    border: 1px solid;
+    padding: 10px;
+    }
+    .list{
+    color:darkblue;
+    font-weight: 500;
+    background-color:bisque; 
+ }
+ .list:hover{
+     background-color:blueviolet;
+     color:black;
+ }
